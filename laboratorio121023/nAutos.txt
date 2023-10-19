@@ -1,0 +1,5 @@
+municipio: 1: bucaramanga
+numero de vehiculos matriculados: 1
+municipio: 2: florida
+numero de vehiculos matriculados: 1
+

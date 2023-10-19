@@ -1,0 +1,10 @@
+id de auto 0
+nombre de auto rx7
+modelo de auto 2023
+id de municipio 0
+id de auto 1
+nombre de auto miata
+modelo de auto 2020
+id de municipio 1
+
+
